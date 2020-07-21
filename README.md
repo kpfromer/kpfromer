@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Kyle Pfromer. I do a lot of full stack programming and work a lot with TypeScript and JavaScript (though I have experience in C++ and Java). I am currently a computer science student at CU Boulder. When not programming I am snowboarding, hiking and biking.
+I'm Kyle Pfromer. I am a full stack developer that works a lot with TypeScript and JavaScript (though I have experience in C++ and Java). I am currently a computer science student at CU Boulder. When not programming I am snowboarding, hiking and biking.
 
 ## Where you can find me
 
