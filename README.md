@@ -4,9 +4,9 @@ I'm Kyle Pfromer. I am a full stack developer that works a lot with TypeScript a
 
 ## Where you can find me
 
-- Personal site: https://kylepfromer.com
-- LinkedIn: https://www.linkedin.com/in/kyle-pfromer/
-- StackOverflow: https://stackoverflow.com/users/3448490/kyle-pfromer
+- [Personal site](https://kylepfromer.com)
+- [LinkedIn](https://www.linkedin.com/in/kyle-pfromer/)
+- [StackOverflow](https://stackoverflow.com/users/3448490/kyle-pfromer)
 
 ## Personal Tid Bits
 
