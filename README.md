@@ -12,7 +12,7 @@ I'm Kyle Pfromer. I am a full stack developer that works a lot with TypeScript a
 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have bike packed the entire [450 mile Colorado Trail](https://coloradotrail.org/trail/).
-- 📸 I really enjoy photography (it's hard to do with corona virus though)!
+- 📸 I enjoy photography!
 
 <!--
 **kpfromer/kpfromer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
